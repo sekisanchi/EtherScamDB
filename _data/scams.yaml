@@ -21976,6 +21976,7 @@
     description: 'Trust trading scam site'
     addresses:
       - '0x397f44292e564bf85ea67a173d28a9fd5d1c6c73'
+      - '0x54189eab44661be1b081b4535c050230a787d816'
 -
     id: 3261
     name: etherum.site123.me
