@@ -21534,6 +21534,7 @@
     description: 'Trust trading scam site'
     addresses:
       - '0xF487d016B2EA5beBdeeA03fA12AdCAB51237bc25'
+      - '0xfeDC43d08F2df67bb9087b461DB0298Ba95D5d3b'
 -
     id: 3210
     name: tokenpublicsale.com
