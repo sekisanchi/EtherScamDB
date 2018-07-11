@@ -21863,6 +21863,7 @@
     description: 'Trust trading scam site'
     addresses:
       - '0x5C9B3fA74E0700a3CbFFD168c7342799a163Ba53'
+      - '0xb9A0B122efd47F72CE204FE65fbD8027Eb73A88D'
 -
     id: 3248
     name: eth-private.com
