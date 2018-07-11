@@ -21766,6 +21766,7 @@
     description: 'Trust trading scam site'
     addresses:
       - '0x6a13e6d0251fba7b474cf4468aa157ee0c6a736c'
+      - '0xF985Aa8117999fA3F0F9E71A20d0FE7B88B9d706'
 -
     id: 3237
     name: giveaway-ethereum.com
